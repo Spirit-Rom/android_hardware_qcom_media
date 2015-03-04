@@ -1,0 +1,5 @@
+[gerrit]
+host=review.spirit-rom.com
+port=29418
+project=android_hardware_qcom_media.git
+defaultbranch=cm-12.0-caf-8974
